@@ -5,10 +5,10 @@
   <img src="githubgif.webp" />
 </p>
 <h2 align="center">Hello my name is Jonas!!</h2>
-<p align="center">I want to be a Front-end Developer</p>
-<p align="center">Brasil🗺 Brasilia🌎</p>
-<p align="center">(☞ﾟヮﾟ)☞</p>
-<div id="badges" align="center">
+<p>I want to be a Front-end Developer</p>
+<p>Brasil🗺 Brasilia🌎</p>
+<p>(☞ﾟヮﾟ)☞</p>
+<div id="badges">
   <a href = "https://www.linkedin.com/in/jonas-gonçalves-447b19225/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
@@ -16,7 +16,7 @@
   <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
-<p align="center">
+<p>
 <img src="https://media1.giphy.com/media/l56sRHrlQufjEjZfwQ/giphy.gif?cid=ecf05e47pk70djnqp5ms3tb4y8hq4qcin4jp7ojg9yixcgeo&rid=giphy.gif&ct=g"/>
 </p>
 <img align="right" height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jnszz&layout=compact&theme=dark"/>
