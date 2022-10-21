@@ -30,4 +30,9 @@
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/windows8/windows8-original.svg" title="windows8" alt="windows8" width="40" height="40"/>&nbsp;
 </div>
-<img height="200em" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jnszz&layout=compact"/>
+<div align="center">
+<img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jnszz&layout=compact&theme=dark"/>
+</div>
+<div align="center">
+<img height="130em" src="https://github-readme-stats.vercel.app/api/pin/?username=jnszz&repo=PongGameMultiplayer&theme=dark"/>
+</div>
