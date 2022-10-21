@@ -5,10 +5,10 @@
   <img src="githubgif.webp" />
 </p>
 <h2 align="center">Hello my name is Jonas!!</h2>
-<p>I want to be a Front-end Developer</p>
-<p>Brasil🗺 Brasilia🌎</p>
-<p>(☞ﾟヮﾟ)☞</p>
-<div id="badges">
+<p align="center">I want to be a Front-end Developer</p>
+<p align="center">Brasil🗺 Brasilia🌎</p>
+<p align="center">(☞ﾟヮﾟ)☞</p>
+<div id="badges" align="center">
   <a href = "https://www.linkedin.com/in/jonas-gonçalves-447b19225/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
