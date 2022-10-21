@@ -16,7 +16,7 @@
   <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
-<p>
+<p align="right">
 <img src="https://media1.giphy.com/media/l56sRHrlQufjEjZfwQ/giphy.gif?cid=ecf05e47pk70djnqp5ms3tb4y8hq4qcin4jp7ojg9yixcgeo&rid=giphy.gif&ct=g"/>
 </p>
 <img align="right" height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jnszz&layout=compact&theme=dark"/>
