@@ -12,8 +12,11 @@
   <a href = "https://www.linkedin.com/in/jonas-gonçalves-447b19225/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href = "https://twitter.com/jotans_/">
-  <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  <a href = "https://www.instagram.com/jnssg._/">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+  </a>
+  <a href = "https://twitter.com/jotans_">
+  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Instagram"/>
   </a>
 </div>
 <h2>Technologies I use</h2>
