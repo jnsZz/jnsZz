@@ -48,3 +48,7 @@
 <div align="center">
 <img height="130em" src="https://github-readme-stats.vercel.app/api/pin/?username=jnszz&repo=PongGameMultiplayer&theme=dark"/>
 </div>
+<h2 align="center">Thanks!! For visiting my profile 😎 !</h2>
+<div align="center">
+<img src="https://komarev.com/ghpvc/?username=jnszz"/>
+</div>
