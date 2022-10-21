@@ -16,7 +16,6 @@
   <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
-<img align="right" height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jnszz&layout=compact&theme=dark"/>
 <h2>Technologies I use</h2>
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
@@ -27,6 +26,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" title="bootstrap" alt="bootstrap" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="vscode" alt="vscode" width="40" height="40"/>&nbsp;
 </div>
+<img align="right" height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jnszz&layout=compact&theme=dark"/>
 <h2>Operating system</h2>
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/windows8/windows8-original.svg" title="windows8" alt="windows8" width="40" height="40"/>&nbsp;
