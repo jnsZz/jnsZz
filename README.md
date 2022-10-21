@@ -30,6 +30,18 @@
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/windows8/windows8-original.svg" title="windows8" alt="windows8" width="40" height="40"/>&nbsp;
 </div>
+<h2>Study Platforms</h2>
+<div>
+<a href="https://www.alura.com.br">
+  <img src="https://pbs.twimg.com/profile_images/1465517409058570248/EBGK2oya_400x400.jpg" alt="Alura" width="40" height="40"/>&nbsp;
+</a>
+<a href="https://www.rocketseat.com.br">
+  <img src="https://yt3.ggpht.com/ytc/AMLnZu9-n9mDtKOwVMx3_-2zr8H57lHFag5t-0JcJNFPUQ=s900-c-k-c0x00ffffff-no-rj" alt="RocketSeat" width="40" height="40"/>&nbsp;
+</a>
+<a href="https://www.cursoemvideo.com">
+<img src="https://cdn1.telegram-cdn.org/file/Dccx2s3Z9eLV-LAiOgryO_7wMoEtdE_BRUVs5EKLDTFmN2ryMie_grBSp3pQCNl7ZFxuyEAstocFcohlnFXgK5wvBINnznIyJAZQ1KGYVmakZ9PJAkMnf3KW4FlndhV7nXAkLH4nDRDdhdTTgyx0unB9TP8ZKLtRlu-Fs4gxMFaRvDvY_sKE0d4AzzUwG-iFLJ9971aKTtVMcHvV60zPK4mF1_Y5LB0qK86X-Yqt5F5531Shv1mAU9zEQ2WzBLatWh9zcdbkGMUFu8gMFGs86JQ-1yZvj9KcGvoDDKvW378WlscXezafJISoAHtiYifUJBMzt-X6Jbovtl-dBmy8Qw.jpg" alt="RocketSeat" width="40" height="40"/>&nbsp;
+</a>
+</div>
 <div align="center">
 <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jnszz&layout=compact&theme=dark"/>
 </div>
