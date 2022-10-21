@@ -1,9 +1,12 @@
+
+<img align="right" src="https://raw.githubusercontent.com/gist/jnsZz/faabe3067ccf67838fdb984a52abdf77/raw/63a562da32ba1b7d55a527cc1a39dd155517cb5a/lateral.svg" alt="lateralimg"/>
+</div>
 <p align="center">
   <img src="githubgif.webp" />
 </p>
 <h2 align="center">Hello my name is Jonas!!</h2>
 <p align="center">I want to be a Front-end Developer</p>
-<p align="center">Systems Analysis and Development Student at FAPRO</p>
+<p align="center">Brasil🗺 Brasilia🌎</p>
 <p align="center">(☞ﾟヮﾟ)☞</p>
 <div id="badges" align="center">
   <a href = "https://www.linkedin.com/in/jonas-gonçalves-447b19225/">
@@ -16,6 +19,7 @@
 <p align="center">
 <img src="https://media1.giphy.com/media/l56sRHrlQufjEjZfwQ/giphy.gif?cid=ecf05e47pk70djnqp5ms3tb4y8hq4qcin4jp7ojg9yixcgeo&rid=giphy.gif&ct=g"/>
 </p>
+<img align="right" height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jnszz&layout=compact&theme=dark"/>
 <h2>Technologies I use</h2>
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
@@ -41,12 +45,6 @@
 <a href="https://www.cursoemvideo.com">
 <img src="https://cdn1.telegram-cdn.org/file/Dccx2s3Z9eLV-LAiOgryO_7wMoEtdE_BRUVs5EKLDTFmN2ryMie_grBSp3pQCNl7ZFxuyEAstocFcohlnFXgK5wvBINnznIyJAZQ1KGYVmakZ9PJAkMnf3KW4FlndhV7nXAkLH4nDRDdhdTTgyx0unB9TP8ZKLtRlu-Fs4gxMFaRvDvY_sKE0d4AzzUwG-iFLJ9971aKTtVMcHvV60zPK4mF1_Y5LB0qK86X-Yqt5F5531Shv1mAU9zEQ2WzBLatWh9zcdbkGMUFu8gMFGs86JQ-1yZvj9KcGvoDDKvW378WlscXezafJISoAHtiYifUJBMzt-X6Jbovtl-dBmy8Qw.jpg" alt="RocketSeat" width="40" height="40"/>&nbsp;
 </a>
-</div>
-<div align="center">
-<img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jnszz&layout=compact&theme=dark"/>
-</div>
-<div align="center">
-<img height="130em" src="https://github-readme-stats.vercel.app/api/pin/?username=jnszz&repo=PongGameMultiplayer&theme=dark"/>
 </div>
 <h2 align="center">Thanks!! For visiting my profile 😎 !</h2>
 <div align="center">
