@@ -45,6 +45,8 @@
 <a href="https://www.cursoemvideo.com">
 <img src="https://yt3.ggpht.com/a/AGF-l7_dZK1YbhL-UVXQH8M1L6NEtKKTQCkhXhQ7Aw=s176-c-k-c0x00ffffff-no-rj-mo" alt="Curso em Video" width="40" height="40"/>&nbsp;
 </a>
+<a href="https://www.freecodecamp.org">
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRyPKSsTtfHHNzzIzjCy4T6ILgaAQGKJd49sw&usqp=CAU" alt="FreecodeCamp" width="40" height="40"/>&nbsp;
 </div>
 <h2 align="center">Thanks!! For visiting my profile 😎 !</h2>
 <div align="center">
