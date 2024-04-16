@@ -35,20 +35,6 @@
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/windows8/windows8-original.svg" title="windows8" alt="windows8" width="40" height="40"/>&nbsp;
 </div>
-<h2>Study Platforms</h2>
-<div>
-<a href="https://www.alura.com.br">
-  <img src="https://pbs.twimg.com/profile_images/1465517409058570248/EBGK2oya_400x400.jpg" alt="Alura" width="40" height="40"/>&nbsp;
-</a>
-<a href="https://www.rocketseat.com.br">
-  <img src="https://yt3.ggpht.com/ytc/AMLnZu9-n9mDtKOwVMx3_-2zr8H57lHFag5t-0JcJNFPUQ=s900-c-k-c0x00ffffff-no-rj" alt="RocketSeat" width="40" height="40"/>&nbsp;
-</a>
-<a href="https://www.cursoemvideo.com">
-<img src="https://yt3.ggpht.com/a/AGF-l7_dZK1YbhL-UVXQH8M1L6NEtKKTQCkhXhQ7Aw=s176-c-k-c0x00ffffff-no-rj-mo" alt="Curso em Video" width="40" height="40"/>&nbsp;
-</a>
-<a href="https://www.freecodecamp.org">
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRyPKSsTtfHHNzzIzjCy4T6ILgaAQGKJd49sw&usqp=CAU" alt="FreecodeCamp" width="40" height="40"/>&nbsp;
-</div>
 <h2 align="center">Thanks!! For visiting my profile 😎 !</h2>
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=jnszz&style=for-the-badge&color=lightgray"/>
