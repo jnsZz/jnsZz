@@ -5,7 +5,6 @@
   <img src="githubgif.webp" />
 </p>
 <h2 align="center">Hello my name is Jonas!!</h2>
-<p align="center">I want to be a Front-end Developer</p>
 <p align="center">Brasil🗺 Brasilia🌎</p>
 <div id="badges" align="center">
   <a href = "https://www.linkedin.com/in/jonas-gonçalves-447b19225/">
