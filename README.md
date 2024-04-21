@@ -1,5 +1,5 @@
 
-<img align="right" src="https://raw.githubusercontent.com/gist/jnsZz/faabe3067ccf67838fdb984a52abdf77/raw/63a562da32ba1b7d55a527cc1a39dd155517cb5a/lateral.svg" alt="lateralimg"/>
+
 </div>
 <p align="center">
   <img src="githubgif.webp" />
